@@ -1,0 +1,12 @@
+[
+    {
+        "test": ".ts",
+        "jsc": {
+            "parser": {
+                "syntax": "typescript",
+                "decorators": false,
+                "dynamicImport": true
+            }
+        }
+    }
+]
