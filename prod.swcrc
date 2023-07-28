@@ -1,5 +1,6 @@
 [
     {
+        "minify": true,
         "test": ".ts",
         "jsc": {
             "parser": {
